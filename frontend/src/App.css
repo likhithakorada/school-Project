@@ -1,0 +1,26 @@
+.school-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.school-card {
+  background-color: lavender;
+  padding: 10px;
+  border-radius: 10px;
+  width: 300px;
+}
+
+.school-card h2 {
+  margin-top: 0;
+}
+
+.school-card p {
+  margin-bottom: 10px;
+}
+
+.school-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+}
